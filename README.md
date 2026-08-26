@@ -15,7 +15,9 @@ https://raw.githubusercontent.com/laeyon85002/gmod_ttt_workshop_images/main/<dat
 - `workshopDescription_features.png` — generisches "Features"-Section-Banner
 - `workshopDescription_requirements.png` — generisches "Requirements"-Section-Banner
 - `workshopDescription_credits.png` — generisches "Credits"-Section-Banner
+- `workshopDescription_convars.png` — generisches "ConVars"/"Server-ConVars"-Section-Banner
 - `workshopDescription_stimPistol.png` — Titelbanner für Stim Pistol
 - `workshopDescription_rolechangerdeagle.png` — Titelbanner für Role Changer Deagle
+- `workshopDescription_toxicGasGrenade.png` — Titelbanner für Toxic Gas Grenade
 
-**Fehlt noch:** ein "ConVars"/"Server-ConVars"-Section-Banner (bisher nur auf Imgur als `jIBWtbM`, nie als eigene PNG aus `title_boxes.af` exportiert) — die Ebene "Convars" existiert in der AF-Datei, wurde aber nie als PNG rausgerendert. Bis das nachgeholt ist, bleibt dieser eine `[img]`-Block in den Descriptions auf Imgur.
+Alle Banner werden aktuell in mindestens einer Addon-Description eingesetzt. Stand 2026-08-26: vollständig, keine offenen Lücken.
