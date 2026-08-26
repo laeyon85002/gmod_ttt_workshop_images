@@ -18,6 +18,6 @@ https://raw.githubusercontent.com/laeyon85002/gmod_ttt_workshop_images/main/<dat
 - `workshopDescription_convars.png` — generisches "ConVars"/"Server-ConVars"-Section-Banner
 - `workshopDescription_stimPistol.png` — Titelbanner für Stim Pistol
 - `workshopDescription_rolechangerdeagle.png` — Titelbanner für Role Changer Deagle
-- `workshopDescription_toxicGasGrenade.png` — Titelbanner für Toxic Gas Grenade
+- `workshopDescription_toxicSmokeGrenade.png` — Titelbanner für Toxic Smoke Grenade
 
 Alle Banner werden aktuell in mindestens einer Addon-Description eingesetzt. Stand 2026-08-26: vollständig, keine offenen Lücken.
