@@ -19,5 +19,6 @@ https://raw.githubusercontent.com/laeyon85002/gmod_ttt_workshop_images/main/<dat
 - `workshopDescription_stimPistol.png` — Titelbanner für Stim Pistol
 - `workshopDescription_rolechangerdeagle.png` — Titelbanner für Role Changer Deagle
 - `workshopDescription_toxicSmokeGrenade.png` — Titelbanner für Toxic Smoke Grenade
+- `workshopDescription_chaosGrenade.png` — Titelbanner für Chaos Grenade
 
-Alle Banner werden aktuell in mindestens einer Addon-Description eingesetzt. Stand 2026-08-26: vollständig, keine offenen Lücken.
+Alle Banner werden aktuell in mindestens einer Addon-Description eingesetzt. Stand 2026-09-01: vollständig, keine offenen Lücken.
