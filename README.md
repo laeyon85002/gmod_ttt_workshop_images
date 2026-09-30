@@ -2,8 +2,9 @@
 
 Public image host for `[img]`-Links in den Steam-Workshop-Beschreibungen der TTT2-Addons (siehe `../gmod_ttt_addon_*/workshop/description.md`). Ersetzt Imgur — kein Cookie-Consent-Zirkus beim Zugriff, keine Gefahr, dass ein Album offline geht.
 
-Erzeugt werden alle Banner von der Icon-Pipeline in `../gmod_ttt_materials/_icon_pipeline/`
-(`make_banner.py` fuer die generischen Abschnittsbanner, `icon_pipeline.py --banner-title` fuer die
+Erzeugt werden alle Banner von IconFactory in `../gmod_ttt_iconfactory/` (bis 2026-09-30
+`../gmod_ttt_materials/_icon_pipeline/`; `python -m iconfactory banner` für die generischen
+Abschnittsbanner, `python -m iconfactory icons --banner-title` für die
 Addon-Titelbanner); Ablage der Originale: `../gmod_ttt_materials/workshopvorlagen/`. Die alten
 PSD/AF-Arbeitsdateien liegen dort weiterhin, werden aber nicht mehr gebraucht.
 
